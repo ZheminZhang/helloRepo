@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main()
-{
-	printf("Hello, world!");
+#include "lcr.h"
+int main(){
+	printf("Hello, world!"); 
+	printMyName();
 	return 0;
 }
