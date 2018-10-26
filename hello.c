@@ -6,5 +6,6 @@ int main(){
 	printf("Hello, world!");
 	myname();
 	myName();
-	return 0;
+	printf("这是一个突破");
+    return 0;
 }
