@@ -3,7 +3,7 @@
 #include "first.h"
 void myname();
 int main(){
-	printf("Hello, world!");
+	printf("Hello, world!"); //gitlearn
 	myname();
 	myName();
   	printname();
