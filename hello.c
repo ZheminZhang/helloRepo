@@ -6,5 +6,6 @@ int main(){
 	printf("Hello, world!");
 	myname();
 	myName();
+	lcr();
 	return 0;
 }
