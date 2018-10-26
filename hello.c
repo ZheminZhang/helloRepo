@@ -1,12 +1,5 @@
-#include "who.c"
-#include "myFun.h"
-#include "first.h"
-void myname();
+#include <stdio.h>
 int main(){
-	printf("Hello, world!"); //gitlearn
-	//git_llll
-	myname();
-	myName();
-  printname();
+	printf("Hello, world!"); 
 	return 0;
 }
