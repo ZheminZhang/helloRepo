@@ -1,5 +1,8 @@
 #include <stdio.h>
+#include "xy1.h"
+
 int main(){
-	printf("Hello, world!"); 
+	printf("Hello, world!");
+	print_age(); 
 	return 0;
 }
