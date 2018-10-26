@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "who.c"
 void myname111();
 
 int main()
