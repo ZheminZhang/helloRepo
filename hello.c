@@ -1,8 +1,11 @@
-#include <stdio.h>
+#include "who.c"
+#include "myFun.h"
 #include "first.h"
-
+void myname();
 int main(){
 	printf("Hello, world!");
-	printname();
+	myname();
+	myName();
+  printname();
 	return 0;
 }
